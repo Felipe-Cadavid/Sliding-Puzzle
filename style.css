@@ -9,7 +9,7 @@
 body{
     background: radial-gradient(circle, #fff, #222);
     height: 100vh;
-    overflow: hidden;
+    overflow: none;
     display: flex;
     flex-direction: column;
     justify-content: center;
